@@ -1,7 +1,6 @@
-echo "# oinetsrv" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/oinetsrv/oinetsrv.git
-git push -u origin main
+## Oi eu sou o OINETS, aprendendo a configurar esse conteúdo.
+<div align="center">
+  <a href="https://github.com/oinetsrv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oinetsrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oinetsrv&layout=compact&langs_count=7&theme=dracula"/>
+</div>
