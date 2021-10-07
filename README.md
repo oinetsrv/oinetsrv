@@ -6,7 +6,7 @@
 </div>
   
   ##
-<div> 
+<div align="center"> 
 
 ![Snake animation](https://github.com/oinetsrv/oinetsrv/blob/output/github-contribution-grid-snake.svg)
  
